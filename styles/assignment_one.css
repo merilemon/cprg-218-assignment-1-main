@@ -20,6 +20,12 @@ body {
     }
 }
 
+.header-container {
+    background-color: #dddddd;
+    text-align: center;
+    padding: 6rem 1rem;
+  }
+
 /* desktop */
 
 @media screen and (min-width: 1200px) {
